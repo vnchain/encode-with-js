@@ -1,6 +1,6 @@
 {
    "name": "encode-with-js",
-   "version": "1.0.1",
+   "version": "1.0.2",
    "description": "Encode with js",
    "main": "index.js",
    "scripts": {
