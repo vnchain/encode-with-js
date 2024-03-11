@@ -2,4 +2,4 @@
 
 #### Encode use md5:
 
-`encode(data ,""md5)`
+`encode(data ,"md5")`
