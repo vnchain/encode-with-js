@@ -1,7 +1,7 @@
 {
    "name": "encode-with-js",
-   "version": "1.0.0",
-   "description": "Encode use javascript",
+   "version": "1.0.1",
+   "description": "Encode with js",
    "main": "index.js",
    "scripts": {
       "test": "echo \"Error: no test specified\" && exit 1"
@@ -17,7 +17,7 @@
    },
    "repository": {
       "type": "git",
-      "url": "git+https://github.com/vnchain/encode-js.git"
+      "url": "git+https://github.com/vnchain/encode-with-js.git"
    },
    "keywords": [
       "encode",
